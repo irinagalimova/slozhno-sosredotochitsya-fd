@@ -36,7 +36,6 @@
 
 .header__theme-menu-button {
   position: relative;
-  border: none;
   border: 1px solid transparent;
   padding: 0.3ex 0.8125rem;
   color: var(--nav-color);
