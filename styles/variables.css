@@ -10,21 +10,5 @@
   --main-text-color: #F1B2CE;
 }
 
-@media (prefers-color-scheme: light) {
-  :root {
-  --bg-image: url('../images/cover-image-light.png');
-  --bg-color: #FFF1F7;
-  --nav-color: #353430;
-  --accent-color: #FF8DCB;
-  --title-color: #FFC2E6;
-  --section-title-color: #353430;
-  --card-title-color: #353430;
-  --main-text-color: #353430;
-}
-
-:root.theme-light .header__accent {
-  display: none;
-}
-}
 
 
