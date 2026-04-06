@@ -300,8 +300,7 @@
     grid-column: 1;
   }
 
-  .why-is-it-difficult .card,
-  .gold-fish .card .gold-fish.content-section__title {
+  .why-is-it-difficult .card {
     grid-column: 2;
   }
 
